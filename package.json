@@ -19,6 +19,6 @@
 		"patch-package": "^8.0.0",
 		"postinstall-postinstall": "^2.1.0",
 		"rs-module-lexer": "^2.1.1",
-		"vite": "^4.3.2"
+		"vite": "^5.0.8"
 	}
 }
